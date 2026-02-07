@@ -11,6 +11,8 @@ sites:
     url: https://inbrief.sh
   - name: InBrief API
     url: https://api.inbrief.sh/api/health
+  - name: InBrief App
+    url: https://app.inbrief.sh
 
 notifications:
   - type: email
@@ -26,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.inbrief.sh
   # baseUrl: /your-repo-name
-  # logoUrl: https://raw.githubusercontent.com/miladezzat/Briefly/main/status/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/miladezzat/status/master/assets/upptime-icon.svg
   name: InBrief Status
   introTitle: "**InBrief Status** makes uptime data for InBrief services available in real time."
   introMessage: Monitor the live health of the InBrief web app and API, and let issues surface incidents so the team can respond fast.
