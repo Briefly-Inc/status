@@ -11,10 +11,6 @@ sites:
     url: https://inbrief.sh
   - name: InBrief API
     url: https://api.inbrief.sh/api/health
-  - name: Status Subdomain
-    url: https://status.inbrief.sh
-  - name: MiniStudio App
-    url: https://app.ministudio.ai
 
 notifications:
   - type: email
