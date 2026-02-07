@@ -1,6 +1,6 @@
 # Change these first
 owner: miladezzat # Your GitHub organization or username, where this repository lives
-repo: InBrief # The name of this repository
+repo: status # The name of this repository
 
 # Schedule uptime checks every hour instead of default 5 minutes
 schedule:
@@ -34,7 +34,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/miladezzat/Briefly
+      href: https://github.com/miladezzat/status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
